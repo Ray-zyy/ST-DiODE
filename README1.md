@@ -1,8 +1,3 @@
----
-title: ST-DiODE
-
----
-
 
 # 🌌 ST-DiODE
 
